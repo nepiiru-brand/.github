@@ -41,10 +41,10 @@ Ideas can become something more when we give them form.
 
 ## Links | 公式リンク
 
-- Website: (Nepiiru)[https://nepiiru.f5.si/]
-- GitHub: (@nepiiru-brand)[https://github.com/Nepiiru]
-- X: (@Nepiiru)[https://x.com/nepiiru]
-- Instagram: (@nepiiru)[https://www.instagram.com/nepiiru]
+- Website: [Nepiiru](https://nepiiru.f5.si/)
+- GitHub: [@nepiiru-brand](https://github.com/nepiiru-brand)
+- X: [@Nepiiru](https://x.com/nepiiru)
+- Instagram: [@nepiiru](https://www.instagram.com/nepiiru)
 
 ---
 
